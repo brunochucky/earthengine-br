@@ -1,2 +1,2 @@
 # earthengine-br
-Google Earth Engine Geo Space Data Experiments
+Google Earth Engine Geospace Data Experiments
